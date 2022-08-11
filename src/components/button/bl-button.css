@@ -39,6 +39,7 @@
 .button:hover {
   --bl-button-bg-color: var(--bl-button-main-hover-color);
   --bl-button-border-color: var(--bl-button-main-hover-color);
+  --bl-button-content-color: var(--bl-button-main-hover-color);
 }
 
 .label {
